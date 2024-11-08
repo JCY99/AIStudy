@@ -1,6 +1,1 @@
-test1
-test2
-test3
-test4
-test5
-test6
+AI 공부를 해봅시다!
